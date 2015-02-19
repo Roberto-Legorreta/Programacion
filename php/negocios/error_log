@@ -1,0 +1,1 @@
+[17-Feb-2015 19:49:10 America/Mexico_City] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'wallavic'@'localhost' (using password: NO) in /home/wallavic/public_html/php/negocios/connect_db.php on line 2

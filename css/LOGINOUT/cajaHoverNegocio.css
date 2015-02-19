@@ -1,0 +1,29 @@
+#cajaHoverNegocio{
+	background:  rgba(0, 0, 0, 0.5);
+	border-radius: .33em;
+	-webkit-border-radius: .33em;
+	-moz-border-radius: .33em;
+	-o-border-radius: .33em;
+	-ms-border-radius: .33em;	
+	height: 100%;
+	vertical-align: top;
+	width: 100%;
+}
+
+#centraEstrellas{
+	margin: auto;
+	padding-top: 6em;
+	width: 7.5em;
+}
+
+#centraEstrellas figure{
+	display: inline-block;
+	margin: 0em;
+	vertical-align: top;
+	width: 1.5em;
+}
+
+#centraEstrellas figure img{
+	width: 100%;
+}
+

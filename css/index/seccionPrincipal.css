@@ -1,0 +1,33 @@
+#principal{
+	background: #ececec;
+}
+
+#principalPublicidadIzquierda{
+	background: #6f6f6e;
+	display: inline-block;
+	height: 24em;
+	margin-top: 3.6em; /*ESTE MARGIN SIRVE PARA REPARAR EL ESPACIO QUE DEJA EL POSITION FIXED DEL ENCABEZADO*/
+	vertical-align: top;
+	width: 17.66em;
+}
+
+#principalPublicidadCentral{
+	background: #6f6f6e;
+	display: inline-block;
+	height: 24em;
+	margin-left: 0.35em;
+	margin-top: 3.6em; /*ESTE MARGIN SIRVE PARA REPARAR EL ESPACIO QUE DEJA EL POSITION FIXED DEL ENCABEZADO*/
+	vertical-align: top;
+	width: 60em;
+}
+
+#principalPublicidadDerecha{
+	background: #6f6f6e;
+	display: inline-block;
+	height: 24em;
+	margin-top: 3.6em; /*ESTE MARGIN SIRVE PARA REPARAR EL ESPACIO QUE DEJA EL POSITION FIXED DEL ENCABEZADO*/
+	position: absolute;
+	right: 0;
+	vertical-align: top;
+	width: 17.66em;
+}

@@ -1,0 +1,48 @@
+#secundario{
+	background: #ececec;
+}
+
+.secundarioPublicidadIzquierda{
+	background: #dadad9;
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-o-border-radius: 5px;
+	-ms-border-radius: 5px;
+	display: inline-block;	
+	height: 13.33em;
+	margin-top: 2.52em;
+	margin-left: 4.6em;
+	vertical-align: top;
+	width: 26.8em;
+}
+
+.secundarioPublicidadCentral{
+	background: #dadad9;
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-o-border-radius: 5px;
+	-ms-border-radius: 5px;
+	display: inline-block;	
+	height: 13.33em;
+	margin-top: 2.52em;
+	margin-left: 2.46em;
+	vertical-align: top;
+	width: 26.8em;
+}
+
+.secundarioPublicidadDerecha{
+	background: #dadad9;
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-o-border-radius: 5px;
+	-ms-border-radius: 5px;
+	display: inline-block;	
+	height: 13.33em;
+	margin-top: 2.52em;
+	margin-left: 2.46em;
+	vertical-align: top;
+	width: 26.8em;
+}
