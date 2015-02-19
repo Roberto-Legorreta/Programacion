@@ -25,10 +25,7 @@
 
 </head>
 <body>
-
-	<script type="text/javascript">
-	alert('helooooooooo');
-	</script>
+	
 	<!-- SECCION ENCABEZADO -->
 	<div id="encabezado" class="quincePixeles">
 		<div id="encabezadoDivQueCentraContenido">
